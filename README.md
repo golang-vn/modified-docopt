@@ -74,7 +74,7 @@ parsed_args, _remain_str = docopt.docopt(__doc__, sys.argv[1:], version=__versio
 - Only modify the original docopt file if absolutely necessary.
 - Ensure that you have a backup or know how to revert to the original docopt version if needed.
 - Consider contributing this extension to the official docopt or docopt-ng repositories.
-- Refer to the GitHub issue for relevant discussion: https://github.com/docopt/docopt/issues/461: https://github.com/docopt/docopt/issues/461
+- Refer to the GitHub issue for relevant discussion: https://github.com/docopt/docopt/issues/461
 
 ## Supported Python versions
 - 3.7
